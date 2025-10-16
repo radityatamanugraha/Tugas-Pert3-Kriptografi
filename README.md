@@ -63,7 +63,7 @@ START
     PRINT hasil_dekripsi
 END
 ```
-## Penjelasan Pseudocode nya
+## Penjelasan Pseudocode Caesar Cipher
 
 ### - Artinya program dimulai
 ```
