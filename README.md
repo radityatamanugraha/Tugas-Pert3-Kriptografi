@@ -38,7 +38,7 @@ print("Hasil Dekripsi :", hasil_dekripsi)
 
 ![gambar](Tugas_Pertemuan3_Kriptografi/ss3_pertemuan3_kriptografi.png)
 
-## Flowchart :
+## Flowchart Caesar Cipher:
 
 ![gambar](Tugas_Pertemuan3_Kriptografi/ss4_pertemuan3_kriptografi.png)
 
