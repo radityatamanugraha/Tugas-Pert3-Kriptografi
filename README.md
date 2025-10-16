@@ -1,4 +1,4 @@
-# Tugas Pertemuan 2 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" align="absmiddle">
+# Tugas Pertemuan 3 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" align="absmiddle">
 
 |Nama|NIM|Kelas|Mata Kuliah|
 |----|---|-----|------|
