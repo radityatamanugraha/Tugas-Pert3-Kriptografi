@@ -133,24 +133,3 @@ PRINT hasil_dekripsi
 END
 ```
 
-## - Ilustrasi singkat prosesnya:
-### - Input:
-```
-Teks   : hello
-Shift  : 1
-```
-
-### - Langkah-langkah:
-```
-h → i
-e → f
-l → m
-l → m
-o → p
-```
-### - Output:
-```
-Hasil Enkripsi : ifmmp
-Hasil Dekripsi : hello
-```
-
